@@ -5,10 +5,10 @@ import hobby3 from "./assets/3.jpg";
 import hobby4 from "./assets/4.jpg";
 
 const Hobbies = [
-  { id: 1, name: "Bersepeda", image: hobby1 },
-  { id: 2, name: "Memasak", image: hobby2 },
-  { id: 3, name: "Bermain Gitar", image: hobby3 },
-  { id: 4, name: "Fotografi", image: hobby4 },
+  { id: 1, name: "Coding", image: hobby1 },
+  { id: 2, name: "Mendengarkan Music", image: hobby2 },
+  { id: 3, name: "Nyanyi", image: hobby3 },
+  { id: 4, name: "Lari", image: hobby4 },
 ];
 
 export default function MyGallery() {
